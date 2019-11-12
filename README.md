@@ -1,6 +1,6 @@
 # Teste front-end Praxio
 
-O objetivos deste desafio é podermos avaliar seus conhecimentos técnicos independente do nível que estiver, não é obrigatório entregar o projeto todo, mas sim até onde consegue ir :wink:
+O objetivo deste desafio é podermos avaliar seus conhecimentos técnicos independente do nível que estiver, não é obrigatório entregar o projeto todo, mas sim até onde consegue ir :wink:
 
 ## A missão
 
