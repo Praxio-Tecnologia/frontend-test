@@ -1,4 +1,8 @@
-# Teste front-end Praxio
+<p align="center">
+  <img src="https://praxio.com.br/wp-content/uploads/2019/04/cropped-logo-1.png" width="400">
+</p>
+
+# Front-end Teste - Praxio
 
 O objetivo deste desafio é podermos avaliar seus conhecimentos técnicos independente do nível que estiver, não é obrigatório entregar o projeto todo, mas sim até onde consegue ir :wink:
 
