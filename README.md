@@ -14,13 +14,13 @@ Sua missão é implementar uma SPA (_Single Page Application_) seguindo as recom
 
 Este é o layout que deverá ser desenvolvido:
 
-#### Login
+#### Login :point_down:
 ![layout login](layout-login.png)
 
-#### Cadastro
+#### Cadastro :point_down:
 ![layout cadastro](layout-cadastro.png)
 
-#### Home
+#### Home :point_down:
 ![layout home](layout-home.png)
 
 E aqui os links do layout:
